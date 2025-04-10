@@ -1,0 +1,4 @@
+github.com/devfullcycle/imersao22/go-gateway v0.0.0-20250410172611-3d99fe8f952a h1:vf+yxjQzNxGb8dsmbsUKbtpokbE1FHVBpVjOgn1TrT4=
+github.com/devfullcycle/imersao22/go-gateway v0.0.0-20250410172611-3d99fe8f952a/go.mod h1:x64mBZ7uOOweTIpksnYVst1FCwRIojElPIYv9q24TCg=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
